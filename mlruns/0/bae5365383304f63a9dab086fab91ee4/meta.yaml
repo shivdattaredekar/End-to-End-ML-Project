@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sredekar/OneDrive%20-%20Interpublic/Desktop/Datascience/END%20to%20END%20ML%20project/End-to-End-ML-Project/mlruns/0/bae5365383304f63a9dab086fab91ee4/artifacts
+end_time: 1723626758677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bae5365383304f63a9dab086fab91ee4
+run_name: salty-shark-60
+run_uuid: bae5365383304f63a9dab086fab91ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723626746202
+status: 3
+tags: []
+user_id: sredekar
