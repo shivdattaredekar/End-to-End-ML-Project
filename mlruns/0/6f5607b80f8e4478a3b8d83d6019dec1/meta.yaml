@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sredekar/OneDrive%20-%20Interpublic/Desktop/Datascience/END%20to%20END%20ML%20project/End-to-End-ML-Project/mlruns/0/6f5607b80f8e4478a3b8d83d6019dec1/artifacts
+end_time: 1723631461973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f5607b80f8e4478a3b8d83d6019dec1
+run_name: gentle-cub-160
+run_uuid: 6f5607b80f8e4478a3b8d83d6019dec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723631444338
+status: 3
+tags: []
+user_id: sredekar
